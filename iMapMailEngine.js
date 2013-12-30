@@ -2,9 +2,6 @@
 * Module dependencies.
 */
 
-var express = require('express');
-var connect = require('connect');
-
 var app = module.exports = express.createServer();
 // Configuration
 
